@@ -1,0 +1,248 @@
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\ApplicationInsights.config
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\roslyn\csc.exe
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\roslyn\System.Collections.Immutable.dll
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\roslyn\vbc.exe
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\roslyn\VBCSCompiler.exe
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\roslyn\VBCSCompiler.exe.config
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\GMS.Web.dll.config
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\GMS.Web.dll
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\GMS.Web.pdb
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\Antlr3.Runtime.dll
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\EntityFramework.dll
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\EntityFramework.SqlServer.dll
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\Microsoft.AI.Web.dll
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\Microsoft.AI.WindowsServer.dll
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\Microsoft.ApplicationInsights.dll
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\Microsoft.Owin.dll
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\Microsoft.Owin.Security.dll
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\Microsoft.Owin.Security.Google.dll
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\Microsoft.Web.Infrastructure.dll
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\Newtonsoft.Json.dll
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\Owin.dll
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\System.Web.Helpers.dll
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\System.Web.Mvc.dll
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\System.Web.Optimization.dll
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\System.Web.Razor.dll
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\System.Web.WebPages.Deployment.dll
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\System.Web.WebPages.dll
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\System.Web.WebPages.Razor.dll
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\WebGrease.dll
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\Microsoft.AI.Web.xml
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\Microsoft.AI.WindowsServer.xml
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\Microsoft.ApplicationInsights.xml
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\System.Web.Helpers.xml
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\System.Web.Mvc.xml
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\System.Web.Optimization.xml
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\System.Web.Razor.xml
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\System.Web.WebPages.xml
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\System.Web.WebPages.Deployment.xml
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\System.Web.WebPages.Razor.xml
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\Antlr3.Runtime.pdb
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\Newtonsoft.Json.xml
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\EntityFramework.xml
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\EntityFramework.SqlServer.xml
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\Microsoft.Owin.xml
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\Microsoft.Owin.Security.xml
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\Microsoft.Owin.Security.Google.xml
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\obj\Debug\GMS.Web.csprojResolveAssemblyReference.cache
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\obj\Debug\GMS.Web.dll
+c:\users\siyabonga\documents\visual studio 2015\Projects\GMS.Web\GMS.Web\obj\Debug\GMS.Web.pdb
+H:\GMS.Web\GMS.Web\GMS.Web\bin\ApplicationInsights.config
+H:\GMS.Web\GMS.Web\GMS.Web\bin\roslyn\csc.exe
+H:\GMS.Web\GMS.Web\GMS.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\GMS.Web\GMS.Web\GMS.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\GMS.Web\GMS.Web\GMS.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\GMS.Web\GMS.Web\GMS.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\GMS.Web\GMS.Web\GMS.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\GMS.Web\GMS.Web\GMS.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\GMS.Web\GMS.Web\GMS.Web\bin\roslyn\System.Collections.Immutable.dll
+H:\GMS.Web\GMS.Web\GMS.Web\bin\roslyn\System.Reflection.Metadata.dll
+H:\GMS.Web\GMS.Web\GMS.Web\bin\roslyn\vbc.exe
+H:\GMS.Web\GMS.Web\GMS.Web\bin\roslyn\VBCSCompiler.exe
+H:\GMS.Web\GMS.Web\GMS.Web\bin\roslyn\VBCSCompiler.exe.config
+H:\GMS.Web\GMS.Web\GMS.Web\bin\GMS.Web.dll.config
+H:\GMS.Web\GMS.Web\GMS.Web\bin\GMS.Web.dll
+H:\GMS.Web\GMS.Web\GMS.Web\bin\GMS.Web.pdb
+H:\GMS.Web\GMS.Web\GMS.Web\bin\Antlr3.Runtime.dll
+H:\GMS.Web\GMS.Web\GMS.Web\bin\EntityFramework.dll
+H:\GMS.Web\GMS.Web\GMS.Web\bin\EntityFramework.SqlServer.dll
+H:\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.AI.Agent.Intercept.dll
+H:\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.AI.DependencyCollector.dll
+H:\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.AI.Web.dll
+H:\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.AI.WindowsServer.dll
+H:\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.ApplicationInsights.dll
+H:\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.AspNet.Identity.Core.dll
+H:\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.Owin.dll
+H:\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.Owin.Security.Cookies.dll
+H:\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.Owin.Security.dll
+H:\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.Owin.Security.Facebook.dll
+H:\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.Owin.Security.Google.dll
+H:\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.Owin.Security.OAuth.dll
+H:\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.Owin.Security.Twitter.dll
+H:\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.Web.Infrastructure.dll
+H:\GMS.Web\GMS.Web\GMS.Web\bin\Newtonsoft.Json.dll
+H:\GMS.Web\GMS.Web\GMS.Web\bin\Owin.dll
+H:\GMS.Web\GMS.Web\GMS.Web\bin\System.Web.Helpers.dll
+H:\GMS.Web\GMS.Web\GMS.Web\bin\System.Web.Mvc.dll
+H:\GMS.Web\GMS.Web\GMS.Web\bin\System.Web.Optimization.dll
+H:\GMS.Web\GMS.Web\GMS.Web\bin\System.Web.Razor.dll
+H:\GMS.Web\GMS.Web\GMS.Web\bin\System.Web.WebPages.Deployment.dll
+H:\GMS.Web\GMS.Web\GMS.Web\bin\System.Web.WebPages.dll
+H:\GMS.Web\GMS.Web\GMS.Web\bin\System.Web.WebPages.Razor.dll
+H:\GMS.Web\GMS.Web\GMS.Web\bin\WebGrease.dll
+H:\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.AI.DependencyCollector.xml
+H:\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.AI.Web.xml
+H:\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.AI.WindowsServer.xml
+H:\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.ApplicationInsights.xml
+H:\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\GMS.Web\GMS.Web\GMS.Web\bin\System.Web.Helpers.xml
+H:\GMS.Web\GMS.Web\GMS.Web\bin\System.Web.Mvc.xml
+H:\GMS.Web\GMS.Web\GMS.Web\bin\System.Web.Optimization.xml
+H:\GMS.Web\GMS.Web\GMS.Web\bin\System.Web.Razor.xml
+H:\GMS.Web\GMS.Web\GMS.Web\bin\System.Web.WebPages.xml
+H:\GMS.Web\GMS.Web\GMS.Web\bin\System.Web.WebPages.Deployment.xml
+H:\GMS.Web\GMS.Web\GMS.Web\bin\System.Web.WebPages.Razor.xml
+H:\GMS.Web\GMS.Web\GMS.Web\bin\Antlr3.Runtime.pdb
+H:\GMS.Web\GMS.Web\GMS.Web\bin\Newtonsoft.Json.xml
+H:\GMS.Web\GMS.Web\GMS.Web\bin\EntityFramework.xml
+H:\GMS.Web\GMS.Web\GMS.Web\bin\EntityFramework.SqlServer.xml
+H:\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.AspNet.Identity.Core.xml
+H:\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.Owin.xml
+H:\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.Owin.Security.xml
+H:\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.Owin.Security.Facebook.xml
+H:\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.Owin.Security.Cookies.xml
+H:\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.Owin.Security.OAuth.xml
+H:\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.Owin.Security.Google.xml
+H:\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.Owin.Security.Twitter.xml
+H:\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\GMS.Web\GMS.Web\GMS.Web\obj\Debug\GMS.Web.csprojAssemblyReference.cache
+H:\GMS.Web\GMS.Web\GMS.Web\obj\Debug\GMS.Web.csproj.CoreCompileInputs.cache
+H:\GMS.Web\GMS.Web\GMS.Web\obj\Debug\GMS.Web.csproj.CopyComplete
+H:\GMS.Web\GMS.Web\GMS.Web\obj\Debug\GMS.Web.dll
+H:\GMS.Web\GMS.Web\GMS.Web\obj\Debug\GMS.Web.pdb
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\ApplicationInsights.config
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\roslyn\csc.exe
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\roslyn\vbc.exe
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\GMS.Web.dll.config
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\GMS.Web.dll
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\GMS.Web.pdb
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\Antlr3.Runtime.dll
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\EntityFramework.dll
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.Owin.dll
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\Newtonsoft.Json.dll
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\Owin.dll
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\System.Web.Helpers.dll
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\System.Web.Mvc.dll
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\System.Web.Optimization.dll
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\System.Web.Razor.dll
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\System.Web.WebPages.dll
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\WebGrease.dll
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\System.Web.Helpers.xml
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\System.Web.Mvc.xml
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\System.Web.Optimization.xml
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\System.Web.Razor.xml
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\System.Web.WebPages.xml
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\Newtonsoft.Json.xml
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\EntityFramework.xml
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.Owin.xml
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\obj\Debug\GMS.Web.csprojResolveAssemblyReference.cache
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\obj\Debug\GMS.Web.dll
+C:\Users\Sia\Desktop\Project\GMS.Web\GMS.Web\GMS.Web\obj\Debug\GMS.Web.pdb

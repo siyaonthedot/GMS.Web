@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="5f91e1bdf76341e596384402de4545ba" Name="Diagram1">
+        <EntityTypeShape EntityType="crudModel.Audit" Width="1.5" PointX="0.75" PointY="2" IsExpanded="true" />
+        <EntityTypeShape EntityType="crudModel.Branch" Width="1.5" PointX="3" PointY="4.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="crudModel.Business" Width="1.5" PointX="0.75" PointY="4.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="crudModel.Club" Width="1.5" PointX="3" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="crudModel.Equipment" Width="1.5" PointX="9.75" PointY="11" IsExpanded="true" />
+        <EntityTypeShape EntityType="crudModel.Function" Width="1.5" PointX="13" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="crudModel.Login" Width="1.5" PointX="10.75" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="crudModel.MemberAttendency" Width="1.5" PointX="7.75" PointY="8" IsExpanded="true" />
+        <EntityTypeShape EntityType="crudModel.Member" Width="1.5" PointX="5.25" PointY="2.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="crudModel.MemberShipType" Width="1.5" PointX="3" PointY="10.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="crudModel.Role" Width="1.5" PointX="7.75" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="crudModel.SecondaryMember" Width="1.5" PointX="5.75" PointY="12" IsExpanded="true" />
+        <EntityTypeShape EntityType="crudModel.Status" Width="1.5" PointX="3" PointY="15" IsExpanded="true" />
+        <EntityTypeShape EntityType="crudModel.Store" Width="1.5" PointX="7.75" PointY="2" IsExpanded="true" />
+        <EntityTypeShape EntityType="crudModel.sysdiagram" Width="1.5" PointX="11.75" PointY="11" IsExpanded="true" />
+        <EntityTypeShape EntityType="crudModel.Title" Width="1.5" PointX="10.75" PointY="7.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="crudModel.UserFunction" Width="1.5" PointX="15.25" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="crudModel.UserRole" Width="1.5" PointX="10" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="crudModel.User" Width="1.5" PointX="13" PointY="3.75" IsExpanded="true" />
+        <AssociationConnector Association="crudModel.FK_Branch_Business" ManuallyRouted="false" />
+        <AssociationConnector Association="crudModel.FK_Members_Branch" ManuallyRouted="false" />
+        <AssociationConnector Association="crudModel.FK_Members_Club" ManuallyRouted="false" />
+        <AssociationConnector Association="crudModel.FK_UserFunctions_Functions" ManuallyRouted="false" />
+        <AssociationConnector Association="crudModel.FK_Users_Login" ManuallyRouted="false" />
+        <AssociationConnector Association="crudModel.FK_MemberAttendency_MemberAttendency" ManuallyRouted="false" />
+        <AssociationConnector Association="crudModel.FK_Members_Members" ManuallyRouted="false" />
+        <AssociationConnector Association="crudModel.FK_Members_MemberShipType" ManuallyRouted="false" />
+        <AssociationConnector Association="crudModel.FK_Members_Status" ManuallyRouted="false" />
+        <AssociationConnector Association="crudModel.FK_UserRoles_Roles" ManuallyRouted="false" />
+        <AssociationConnector Association="crudModel.FK_Users_Roles" ManuallyRouted="false" />
+        <AssociationConnector Association="crudModel.FK_Users_Title" ManuallyRouted="false" />
+        <AssociationConnector Association="crudModel.FK_UserFunctions_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="crudModel.FK_UserRoles_Users" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="crudModel.Booking" Width="1.5" PointX="13.375" PointY="8.75" />
+        <EntityTypeShape EntityType="crudModel.Contract" Width="1.5" PointX="8.375" PointY="13.75" />
+        <EntityTypeShape EntityType="crudModel.Product" Width="1.5" PointX="10.375" PointY="13.75" />
+        <EntityTypeShape EntityType="crudModel.ProductType" Width="1.5" PointX="12.375" PointY="13.75" />
+        <EntityTypeShape EntityType="crudModel.Supplier" Width="1.5" PointX="14.375" PointY="11.75" />
+        <EntityTypeShape EntityType="crudModel.Tariff" Width="1.5" PointX="14.375" PointY="14.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,168 @@
+﻿@model IEnumerable<GMS.Web.DBContext.Member>
+
+{
+//ViewBag.Title = "Index";
+}
+
+@*<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create", new {@class = "nav-link"})
+</p>*@
+
+<br />
+<br />
+<br />
+<div class="form-horizontal" style="background:#d9edf7; border: 20px solid #d9edf7;">
+    <div class="row">
+        <div class="col-md-4">
+        </div>
+        <div class="col-md-6">
+            <table class="table table-striped ">
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.FirstName)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.LastName)
+                    </th>
+                    @*<th>
+                            @Html.DisplayNameFor(model => model.IdNumber)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Address)
+                        </th>*@
+                    @*<th>
+                            @Html.DisplayNameFor(model => model.BankName)
+                        </th>*@
+                    @*<th>
+                            @Html.DisplayNameFor(model => model.BanchAcc)
+                        </th>*@
+                    @*<th>
+                            @Html.DisplayNameFor(model => model.DOB)
+                        </th>*@
+                    @*<th>
+                            @Html.DisplayNameFor(model => model.StartDate)
+                        </th>*@
+                    <th>
+                        @Html.DisplayNameFor(model => model.EndDate)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.CellNo)
+                    </th>
+                    @*<th>
+                            @Html.DisplayNameFor(model => model.TellNo)
+                        </th>*@
+                    @*<th>
+                            @Html.DisplayNameFor(model => model.Occupation)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.CompanyName)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Gender)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Age)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Branch.Name)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Club.Description)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Members1.FirstName)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Member1.FirstName)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.MemberShipType.Description)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Status.Description)
+                        </th>*@
+                    <th></th>
+                </tr>
+
+                @foreach (var item in Model)
+            {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FirstName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LastName)
+                </td>
+                @*<td>
+                        @Html.DisplayFor(modelItem => item.IdNumber)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Address)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.BankName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.BanchAcc)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.DOB)
+                    </td>*@
+                @*<td>
+                        @Html.DisplayFor(modelItem => item.StartDate)
+                    </td>*@
+                <td>
+                    @Html.DisplayFor(modelItem => item.EndDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CellNo)
+                </td>
+                @*<td>
+                        @Html.DisplayFor(modelItem => item.TellNo)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Occupation)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CompanyName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Gender)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Age)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Branch.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Club.Description)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Members1.FirstName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Member1.FirstName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.MemberShipType.Description)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Status.Description)
+                    </td>*@
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.ID }, new { @class = "nav-link" }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.ID }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.ID })
+                </td>
+            </tr>
+            }
+
+            </table>
+        </div>
+        <div class="col-md-2">
+        </div>
+    </div>
+    </div>
